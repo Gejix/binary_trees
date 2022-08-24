@@ -13,11 +13,6 @@ All of the following files are programs written in C:
 
 | Filename | Description |
 | -------- | ----------- |
-| `libdynamic.so` | Dynamic library that contains many functions |
-| `1-create_dynamic_lib.sh` | Shell script that creates a dynamic library |
-| `100-operations.so` | Dynamic library that contains mathematical functions |
-| `101-make_me_win.sh` | Shell script that injects a C program in order to hack `gm` executable file |
-
 | `0-binary_tree_node.c` | Function that creates a binary tree node |
 | `1-binary_tree_insert_left.c` | Function that inserts a node as the left-child of another node |
 | `2-binary_tree_insert_right.c` | Function that inserts a node as the right-child of another node |
